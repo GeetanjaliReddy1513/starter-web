@@ -4,3 +4,5 @@ whats up buddy!
 i'm good man
 
 See this is he text added after first commit
+
+This line is for commited ..stays in git repository.
