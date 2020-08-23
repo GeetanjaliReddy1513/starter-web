@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sujana -- Housewife -- NA
 
 # THANKS
 
-    <name>
+    Suz
 
 # TECHNOLOGY COLOPHON
 
