@@ -6,3 +6,7 @@ i'm good man
 See this is he text added after first commit
 
 This line is for commited ..stays in git repository.
+
+I will just add this line in staging area 
+
+This is just modified line in my Npp.
